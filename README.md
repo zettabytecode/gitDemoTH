@@ -1,2 +1,2 @@
 # gitDemoTH
-demonstrating giit for iOS
+demonstrating git for iOS
